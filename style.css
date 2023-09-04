@@ -2,3 +2,9 @@
     background-color: cadetblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+h1{
+    font-size: 26px;
+    font-weight: bold;
+    font-style: italic;
+}
